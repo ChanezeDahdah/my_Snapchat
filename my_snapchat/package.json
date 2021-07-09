@@ -1,0 +1,16 @@
+{
+  "name": "my_snapchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs": "0.0.0",
+    "react-native-elements": "^3.4.1",
+    "watchman": "^1.0.0"
+  }
+}
